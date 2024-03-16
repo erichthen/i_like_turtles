@@ -2,7 +2,7 @@
 
 #### will use this to add scripts working with turtle module  
 
-<ins>Previews</ins>  
+<ins>**Previews**</ins>  
 
 ![art](starry_eyed.png)  
 
