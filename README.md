@@ -4,6 +4,8 @@
 
 <ins>Previews</ins>  
 
+![art](starry_eyed.png)  
+
 ![art](turtle_design.png)  
 
 ![race](turtle_race.png)
