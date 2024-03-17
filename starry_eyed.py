@@ -23,10 +23,9 @@ def starry_eye(t, colors):
     initial_size = 100
     t.pendown()
     
-    #recursive to expand
     for i in range(150):
         t.color(colors[i % 6])
-        t.forward(initial_size + i)
+        t.forward(initial_size + i) #expand
         t.left(150)
 
     t.hideturtle()
