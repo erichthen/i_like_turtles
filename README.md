@@ -2,9 +2,10 @@
 
 #### will use this to add scripts working with turtle module  
 
-<ins>**Previews**</ins>  
+<ins>**Previews and updates**</ins>  
 
 ![art](starry_eyed.png)  
+**will make this animated, add more to it, etc  
 
 ![art](turtle_design.png)  
 
