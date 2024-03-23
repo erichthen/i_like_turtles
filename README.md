@@ -8,5 +8,8 @@
 **will make this animated, add more to it, etc** 
 
 ![art](turtle_design.png)  
+**also want to animate this**  
 
-![race](turtle_race.png)
+![race](turtle_race.png)  
+**want to make this look nicer and have more features,  
+maybe a relay, finish line, pace tracker and more**
