@@ -5,7 +5,7 @@
 <ins>**Previews and updates**</ins>  
 
 ![art](starry_eyed.png)  
-**will make this animated, add more to it, etc  
+**will make this animated, add more to it, etc** 
 
 ![art](turtle_design.png)  
 
